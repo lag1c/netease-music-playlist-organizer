@@ -42,7 +42,7 @@
 
 点击下面的按钮，脚本管理器会自动弹出安装页面：
 
-[![安装脚本](https://img.shields.io/badge/安装-点击这里-ff69b4)](https://raw.githubusercontent.com/你的用户名/你的仓库名/main/script.user.js)
+[![安装脚本](https://img.shields.io/badge/安装-点击这里-ff69b4)](https://raw.githubusercontent.com/lag1c/netease-music-playlist-organizer/main/script.user.js)
 
 把“你的用户名”和“你的仓库名”替换成实际的 GitHub 用户名和仓库名。
 

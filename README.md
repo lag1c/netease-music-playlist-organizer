@@ -1,6 +1,6 @@
 # 🎀 网易云音乐歌单整理工具
 
-[![license](https://img.shields.io/badge/license-GPL--3.0-blue)](LICENSE)
+[![license](https://img.shields.io/badge/license-AGPL--3.0-orange)](LICENSE)
 [![Tampermonkey](https://img.shields.io/badge/脚本管理器-Tampermonkey-ff69b4)](https://www.tampermonkey.net/)
 
 一个网易云音乐歌单自动整理油猴脚本。
@@ -80,7 +80,7 @@
 
 ## 许可证
 
-本项目使用 [GPL-3.0 License](LICENSE)。
+本项目使用 [AGPL-3.0 License](LICENSE)。
 
 ## 🧾 最后
 
